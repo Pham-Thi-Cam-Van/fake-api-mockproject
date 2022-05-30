@@ -1,42 +1,42 @@
 [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz"
+      "password": "bret123",
+      "username": "bret",
+      "email": "bret@april.biz"
     },
     {
       "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv"
+      "password": "ervin123",
+      "username": "ervin",
+      "email": "ervin@melissa.tv"
     },
     {
       "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net"
+      "password": "Samantha123",
+      "username": "samantha",
+      "email": "samantha@yesenia.net"
     },
     {
       "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org"
+      "password": "lebsack123",
+      "username": "lebsack",
+      "email": "lebsack.OConner@kory.org"
     },
     {
       "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca"
+      "password": "Chelsey123",
+      "username": "shelseylucio",
+      "email": "lucio_hettinger@annie.ca"
     },
     {
       "id": 6,
-      "name": "Anie",
+      "password": "Anie",
       "username": "anie102",
       "email": "anie102@gmail.com"
     },{
       "id": 7,
-      "name": "Hank",
+      "password": "Hank",
       "username": "hank56",
       "email": "hank@gmail.com"
     }
