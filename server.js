@@ -9,4 +9,7 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
 
-server.listen(port);
+// server.listen(port);
+server.listen(port,()=>{  // do not add localhost here if you are deploying it
+    console.log("server listening to port "+port);
+});
